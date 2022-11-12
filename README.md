@@ -6,3 +6,8 @@
 - **Edge Font** *from* **[FONTSPACE](https://www.fontspace.com/edge-of-the-galaxy-font-f45748)**
 - **Sound Effects** *from* **[MADROOSTER](https://tr.madrooster.co/)**
 - **Music** *from* **[YOUTUBE](https://youtu.be/FVh6Dflv8IA)**
+
+
+### License  
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
