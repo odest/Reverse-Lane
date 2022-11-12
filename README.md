@@ -1,9 +1,10 @@
-![Name](https://raw.githubusercontent.com/destrochloridium/REVERSE-LANE/main/name.png?token=GHSAT0AAAAAAB3DUKHXBCZ6B66TRT3QLTIUY3P7QFA)
+![Name](https://raw.githubusercontent.com/destrochloridium/REVERSE-LANE/main/name.png?token=GHSAT0AAAAAAB3DUKHXUSNWSR6JLPO2T6KYY3P7YQA)
 # REVERSE LANE
 
 > **Car Game with Pygame**
 
 ![AdsOne](https://raw.githubusercontent.com/destrochloridium/REVERSE-LANE/main/garage.gif?token=GHSAT0AAAAAAB3DUKHXACJKBYHFNWHBDMQOY3P7RPA)
+![AdsTwo](https://raw.githubusercontent.com/destrochloridium/REVERSE-LANE/main/collage.jpg?token=GHSAT0AAAAAAB3DUKHWFYHLIDUH4ZLCGOF4Y3P7W7A)
 
 
 ## Sources
@@ -17,7 +18,7 @@
 
 
 ## License  
-- This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details
+- This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ## Download
 - You can download **[HERE](https://github.com/destrochloridium/REVERSE-LANE/archive/refs/heads/main.zip)** directly.
