@@ -1,10 +1,11 @@
-![Name](https://raw.githubusercontent.com/destrochloridium/REVERSE-LANE/main/name.png?token=GHSAT0AAAAAAB3DUKHXUSNWSR6JLPO2T6KYY3P7YQA)
+![name](https://user-images.githubusercontent.com/102368077/201495476-32be0d21-f7ab-4069-a75a-d8b42655247b.png)
+
 # REVERSE LANE
 
 > **Car Game with Pygame**
 
-![AdsOne](https://raw.githubusercontent.com/destrochloridium/REVERSE-LANE/main/garage.gif?token=GHSAT0AAAAAAB3DUKHXACJKBYHFNWHBDMQOY3P7RPA)
-![AdsTwo](https://raw.githubusercontent.com/destrochloridium/REVERSE-LANE/main/collage.jpg?token=GHSAT0AAAAAAB3DUKHWFYHLIDUH4ZLCGOF4Y3P7W7A)
+![collage](https://user-images.githubusercontent.com/102368077/201495495-34ae2c8a-5343-4ec6-be36-ef8e2128e832.jpg)
+
 
 
 ## Sources
