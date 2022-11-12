@@ -8,6 +8,8 @@
 - **Music** *from* **[YOUTUBE](https://youtu.be/FVh6Dflv8IA)**
 
 
-### License  
+## License  
+- This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+## Download
+- You can download **[HERE](https://github.com/destrochloridium/REVERSE-LANE/archive/refs/heads/main.zip)** directly.
