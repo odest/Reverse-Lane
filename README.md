@@ -4,6 +4,5 @@
 - **UI Assets** *from* **[ITCH.IO](https://wenrexa.itch.io/holoui)**
 - **Glass Font** *from* **[FONTSPACE](https://www.fontspace.com/glass-font-f31437)**
 - **Edge Font** *from* **[FONTSPACE](https://www.fontspace.com/edge-of-the-galaxy-font-f45748)**
-
-
-- **Glass Font** *from* <a href="placeholder.com" target="_blank"> **FONTSPACE** </a>
+- **Sound Effects** *from* **[MADROOSTER](https://tr.madrooster.co/)**
+- **Music** *from* **[YOUTUBE](https://youtu.be/FVh6Dflv8IA)**
