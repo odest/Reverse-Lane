@@ -28,6 +28,7 @@
 
 *You can play games while getting your work done.<br>
 It is quite easy to download, run and play.<br>
+You will feel yourself in the game with interactive pages.<br>
 With its stylish and simple interface design and user-friendly interface, a very entertaining game awaits you.<br>
 **LETS GO!***
 
@@ -60,6 +61,10 @@ and **ENJOY**!
 
 
 ## Features
+
+- *Stylish, Simple, Easy & Cool* **UI-User Interface**
+- *User Friendly, Quite Easy* **UX-User Experience**
+- *Fun* **Music** *and Realistic* **Sound Effects**, **Score System** *and Instant* **FPS** *Indicator*
 
 <details>
   <summary>LANGUAGE</summary>
