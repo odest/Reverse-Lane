@@ -25,8 +25,11 @@
 - [Game ScreenShots](#Game-ScreenShots)
 
 ## Introduction
-> pass
 
+*You can play games while getting your work done.<br>
+It is quite easy to download, run and play.<br>
+With its stylish and simple interface design and user-friendly interface, a very entertaining game awaits you.<br>
+**LETS GO!***
 
 ## Installation & Usage
 
