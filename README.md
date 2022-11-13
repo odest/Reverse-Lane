@@ -1,3 +1,4 @@
+![name](https://user-images.githubusercontent.com/102368077/201541197-e19e6c83-66f6-4074-a5cb-d63fb12d1742.png)
 
 
 
@@ -22,7 +23,6 @@
 - [Sources](#Sources)
 - [License](#License)
 - [Game ScreenShots](#Game-ScreenShots)
-- [Notes](#Notes)
 
 ## Introduction
 > pass
@@ -139,5 +139,3 @@ and ENJOY!
 ![playPage](https://user-images.githubusercontent.com/102368077/201526153-fbf0b6ab-a9e2-47f2-9b4c-622ef1719cab.png)
 ![road](https://user-images.githubusercontent.com/102368077/201526232-3dcc614d-c0cc-47bd-9f1f-bc44f091e049.jpg)
 ![garageAndCars](https://user-images.githubusercontent.com/102368077/201526324-1e3bfdbc-d62d-48e5-843d-7bd5609b668e.gif)
-
-## Notes
