@@ -17,8 +17,8 @@
 
 - [Introduction](#Introduction)
 - [Installation & Usage](#Installation-&-Usage)
-- [Features](#Features)
 - [Gameplay](#Gameplay)
+- [Features](#Features)
 - [Sources](#Sources)
 - [License](#License)
 - [Images](#Images)
@@ -30,13 +30,6 @@
 ## Installation & Usage
 - You can download **[HERE](https://github.com/destrochloridium/REVERSE-LANE/archive/refs/heads/main.zip)** directly.
 
-## Features
-> pass
-
-
-[deneme](#splashScreen)
-
-
 ## Gameplay
 > - **<kbd>&larr;</kbd>** / **<kbd>&rarr;</kbd>** / **<kbd>a</kbd>** / **<kbd>d</kbd>** *for* **Going to Left & Right**
 > - **<kbd>&darr;</kbd>** / **<kbd>&uarr;</kbd>** / **<kbd>w</kbd>** / **<kbd>s</kbd>** *for* **Speed Up & Speed Down**
@@ -46,6 +39,33 @@
 > - **<kbd>Button Initials</kbd>** *for* **Button's Command** <br> ° Examples; <br> • *for* **<kbd>Play</kbd>** press **<kbd>P</kbd>** <br> • *for* **<kbd>Settings</kbd>** press **<kbd>S</kbd>** <br> • *for* **<kbd>Garage</kbd>** press **<kbd>G</kbd>** <br>    ...
 > - *You Can Also Use* **<kbd>Mouse</kbd>**
 
+
+## Features
+- **3** *different* **Language** *options*
+    - *Turkish*
+    - *English*
+    - *German*
+
+- **3** *different* **Difficulty** *levels*
+    - *Easy*
+    - *Medium*
+    - *Hard*
+
+- **6** *different* **Screen Size** *options*
+    - *144*
+    - *225*
+    - *288*
+    - *360*
+    - *480*
+    - *720*
+
+- **6** *different* **Sports Cars** *with* **3** **Color** *options*
+    - *Porsche*
+    - *Maserati*
+    - *Pagani*
+    - *Lamborghini*
+    - *Ferrari*
+    - *Bugatti*
 
 
 ## Sources
