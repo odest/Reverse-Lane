@@ -41,32 +41,49 @@
 
 
 ## Features
-- **3** *different* **Language** *options*
-    - *Turkish*
-    - *English*
-    - *German*
 
-- **3** *different* **Difficulty** *levels*
-    - *Easy*
-    - *Medium*
-    - *Hard*
+- <details>
+  <summary>LANGUAGE</summary>
 
-- **6** *different* **Screen Size** *options*
-    - *144*
-    - *225*
-    - *288*
-    - *360*
-    - *480*
-    - *720*
+  > **3** *different* **Language** *options*
+  - *Turkish*
+  - *English*
+  - *German*
+</details>
 
-- **6** *different* **Sports Cars** *with* **3** **Color** *options*
-    - *Porsche*
-    - *Maserati*
-    - *Pagani*
-    - *Lamborghini*
-    - *Ferrari*
-    - *Bugatti*
+- <details>
+  <summary>DIFFICULTY</summary>
 
+  > **3** *different* **Difficulty** *levels*
+  - *Easy*
+  - *Medium*
+  - *Hard*
+</details>
+
+
+- <details>
+  <summary>SCREEN SIZE</summary>
+
+  > **6** *different* **Screen Size** *options*
+  - *144*
+  - *225*
+  - *288*
+  - *360*
+  - *480*
+  - *720*
+</details>
+
+- <details>
+  <summary>PLAYER CAR</summary>
+
+  > **6** *different* **Sports Cars** *with* **3** **Color** *options*
+  - *Porsche*
+  - *Maserati*
+  - *Pagani*
+  - *Lamborghini*
+  - *Ferrari*
+  - *Bugatti*
+</details>
 
 ## Sources
 - **Player Car Images** *from* **[GAMEDEV MARKET](https://www.gamedevmarket.net/asset/2d-super-cars-free-sample/)**
