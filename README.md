@@ -12,8 +12,8 @@
 - [License](#License)
 
 ## Usage
-**<kbd>></kbd>** / **<kbd><</kbd>**
-**<kbd>a</kbd>** / **<kbd>d</kbd>**
+> - **<kbd>></kbd>** / **<kbd><</kbd>**
+> - **<kbd>a</kbd>** / **<kbd>d</kbd>**
 
 
 
