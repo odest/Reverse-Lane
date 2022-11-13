@@ -1,4 +1,4 @@
-![reverseLane](https://user-images.githubusercontent.com/102368077/201525187-811941ce-2735-477c-a16b-307b96f67301.png)
+
 
 
 # REVERSE LANE
@@ -27,8 +27,19 @@
 ## Introduction
 > pass
 
+
 ## Installation & Usage
-- You can download **[HERE](https://github.com/destrochloridium/REVERSE-LANE/archive/refs/heads/main.zip)** directly.
+
+***Requirements***
+> - *Python*
+> - *Pygame*
+> - *Json*
+
+Downloading files from **[HERE](https://github.com/destrochloridium/REVERSE-LANE/archive/refs/heads/main.zip)**, run the
+> main.py
+
+and ENJOY!
+
 
 ## Gameplay
 > - **<kbd>&larr;</kbd>** / **<kbd>&rarr;</kbd>** / **<kbd>a</kbd>** / **<kbd>d</kbd>** *for* **Going to Left & Right**
