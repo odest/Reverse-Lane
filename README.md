@@ -34,6 +34,9 @@
 > pass
 
 
+[deneme](#splashScreen)
+
+
 ## Gameplay
 > - **<kbd>&larr;</kbd>** / **<kbd>&rarr;</kbd>** / **<kbd>a</kbd>** / **<kbd>d</kbd>** *for* **Going to Left & Right**
 > - **<kbd>&darr;</kbd>** / **<kbd>&uarr;</kbd>** / **<kbd>w</kbd>** / **<kbd>s</kbd>** *for* **Speed Up & Speed Down**
