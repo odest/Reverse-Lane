@@ -5,7 +5,8 @@
 > **Car Game with Pygame**
 
 [![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;](https://www.python.org/)
-[![made-with-pygame](https://user-images.githubusercontent.com/102368077/201520171-49ed33fd-6984-4dd9-84db-f8fe121eb65a.svg)](https://www.pygame.org/)
+[![pygame](https://user-images.githubusercontent.com/102368077/201520418-a8cd7ee4-411f-43ce-996b-bb774ca9b540.svg)
+](https://www.pygame.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
