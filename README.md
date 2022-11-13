@@ -36,19 +36,24 @@
 > - *Json*
 
 Downloading files from **[HERE](https://github.com/destrochloridium/REVERSE-LANE/archive/refs/heads/main.zip)**, run the
-> main.py
+> ***main.py***
 
-and ENJOY!
+and **ENJOY**!
 
 
 ## Gameplay
-> - **<kbd>&larr;</kbd>** / **<kbd>&rarr;</kbd>** / **<kbd>a</kbd>** / **<kbd>d</kbd>** *for* **Going to Left & Right**
-> - **<kbd>&darr;</kbd>** / **<kbd>&uarr;</kbd>** / **<kbd>w</kbd>** / **<kbd>s</kbd>** *for* **Speed Up & Speed Down**
-> - **<kbd>ESC</kbd>** / **<kbd>Q</kbd>** / **<kbd>X</kbd>** / **<kbd>E</kbd>** *for* **Close Pages & Exit Game**
-> - **<kbd>Enter</kbd>** *for* **Confirm**
-> - **<kbd>Space</kbd>** *for* **Pause, Resume & Restart**
-> - **<kbd>Button Initials</kbd>** *for* **Button's Command** <br> ° Examples; <br> • *for* **<kbd>Play</kbd>** press **<kbd>P</kbd>** <br> • *for* **<kbd>Settings</kbd>** press **<kbd>S</kbd>** <br> • *for* **<kbd>Garage</kbd>** press **<kbd>G</kbd>** <br>    ...
-> - *You Can Also Use* **<kbd>Mouse</kbd>**
+- **<kbd>&larr;</kbd>** / **<kbd>&rarr;</kbd>** / **<kbd>a</kbd>** / **<kbd>d</kbd>** *for* **Going to Left & Right**
+- **<kbd>&darr;</kbd>** / **<kbd>&uarr;</kbd>** / **<kbd>w</kbd>** / **<kbd>s</kbd>** *for* **Speed Up & Speed Down**
+- **<kbd>ESC</kbd>** / **<kbd>Q</kbd>** / **<kbd>X</kbd>** / **<kbd>E</kbd>** *for* **Close Pages & Exit Game**
+- **<kbd>Enter</kbd>** *for* **Confirm**
+- **<kbd>Space</kbd>** *for* **Pause, Resume & Restart**
+- **<kbd>Button Initials</kbd>** *for* **Button's Command**
+    - Examples;
+        - *for* **<kbd>Play</kbd>** press **<kbd>P</kbd>**
+        - *for* **<kbd>Settings</kbd>** press **<kbd>S</kbd>**
+        - *for* **<kbd>Garage</kbd>** press **<kbd>G</kbd>**
+        - ...
+- *You Can Also Use* **<kbd>Mouse</kbd>**
 
 
 ## Features
