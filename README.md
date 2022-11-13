@@ -15,11 +15,24 @@
 
 ## Table of Contents
 
+- [Introduction](#Introduction)
+- [Installation & Usage](#Installation-&-Usage)
+- [Features](#Features)
 - [Gameplay](#Gameplay)
-- [Images](#Images)
 - [Sources](#Sources)
-- [Download](#Download)
 - [License](#License)
+- [Images](#Images)
+- [Notes](#Notes)
+
+## Introduction
+> pass
+
+## Installation & Usage
+- You can download **[HERE](https://github.com/destrochloridium/REVERSE-LANE/archive/refs/heads/main.zip)** directly.
+
+## Features
+> pass
+
 
 ## Gameplay
 > - **<kbd>&larr;</kbd>** / **<kbd>&rarr;</kbd>** / **<kbd>a</kbd>** / **<kbd>d</kbd>** *for* **Going to Left & Right**
@@ -45,12 +58,10 @@
 ## License  
 - This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
-## Download
-- You can download **[HERE](https://github.com/destrochloridium/REVERSE-LANE/archive/refs/heads/main.zip)** directly.
-
 
 ## Images
 ![collage](https://user-images.githubusercontent.com/102368077/201495495-34ae2c8a-5343-4ec6-be36-ef8e2128e832.jpg)
 ![garage](https://user-images.githubusercontent.com/102368077/201495691-82e4ec2b-4def-4edd-a9b2-5b4ab78ce8e9.gif)
 ![roads](https://user-images.githubusercontent.com/102368077/201525340-0ed373f8-6fdb-4d88-9e53-568dc93cb138.jpg)
 
+## Notes
