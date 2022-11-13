@@ -42,48 +42,70 @@
 
 ## Features
 
-- <details>
+<details>
   <summary>LANGUAGE</summary>
 
-  > **3** *different* **Language** *options*
-  - *Turkish*
-  - *English*
-  - *German*
+  - **3** *different* **Language** *options*
+    - *Turkish*
+    - *English*
+    - *German*
 </details>
 
-- <details>
+<details>
   <summary>DIFFICULTY</summary>
 
-  > **3** *different* **Difficulty** *levels*
-  - *Easy*
-  - *Medium*
-  - *Hard*
+  - **3** *different* **Difficulty** *levels*
+    - *Easy*
+    - *Medium*
+    - *Hard*
 </details>
 
-
-- <details>
+<details>
   <summary>SCREEN SIZE</summary>
 
-  > **6** *different* **Screen Size** *options*
-  - *144*
-  - *225*
-  - *288*
-  - *360*
-  - *480*
-  - *720*
+  - **6** *different* **Screen Size** *options*
+    - *144*
+    - *225*
+    - *288*
+    - *360*
+    - *480*
+    - *720*
+  > *TO CHANGE THE SCREEN SIZE AFTER SELECTING IT, YOU MUST CLOSE & OPEN THE GAME BUT THEY CAN BE USED IMMEDIATELY AFTER THE OTHER SETTINGS HAVE BEEN CHANGED AND SAVED.*
 </details>
 
-- <details>
+<details>
   <summary>PLAYER CAR</summary>
 
-  > **6** *different* **Sports Cars** *with* **3** **Color** *options*
-  - *Porsche*
-  - *Maserati*
-  - *Pagani*
-  - *Lamborghini*
-  - *Ferrari*
-  - *Bugatti*
+  - **6** *different* **Super Cars** *with* **3** **Color** *options*
+    - *Porsche*
+    - *Maserati*
+    - *Pagani*
+    - *Lamborghini*
+    - *Ferrari*
+    - *Bugatti*
+  - A total of **18 Super Cars** each one unique contains features.
+    - *Speed*
+    - *Handling*
+    - *braking*
 </details>
+
+<details>
+  <summary>NPC</summary>
+
+  - **32+** *different* **NPC** *images*
+</details>
+
+<details>
+  <summary>ROAD</summary>
+
+  - **4+** *different* **ROAD** *options*
+    - *City*
+    - *Jungle*
+    - *Desert*
+    - *Mountain*
+</details>
+
+
 
 ## Sources
 - **Player Car Images** *from* **[GAMEDEV MARKET](https://www.gamedevmarket.net/asset/2d-super-cars-free-sample/)**
