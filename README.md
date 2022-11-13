@@ -21,7 +21,7 @@
 - [Features](#Features)
 - [Sources](#Sources)
 - [License](#License)
-- [Images](#Images)
+- [Images & ScreenShots From Game](#Images-&-ScreenShots-From-Game)
 - [Notes](#Notes)
 
 ## Introduction
@@ -121,7 +121,7 @@
 - This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 
-## Images
+## Images & ScreenShots From Game
 ![splashScreen](https://user-images.githubusercontent.com/102368077/201526011-1a933231-e1ae-42ec-81fc-1f084705366d.png)
 ![homePage](https://user-images.githubusercontent.com/102368077/201526131-ffb5eb04-92ed-4df7-8df2-5b711bd4bf1b.png)
 ![settingsPage](https://user-images.githubusercontent.com/102368077/201526015-ef250e4a-574d-4ee5-999f-1bf614fc32db.png)
