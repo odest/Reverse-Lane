@@ -60,8 +60,11 @@
 
 
 ## Images
-![collage](https://user-images.githubusercontent.com/102368077/201495495-34ae2c8a-5343-4ec6-be36-ef8e2128e832.jpg)
-![garage](https://user-images.githubusercontent.com/102368077/201495691-82e4ec2b-4def-4edd-a9b2-5b4ab78ce8e9.gif)
-![roads](https://user-images.githubusercontent.com/102368077/201525340-0ed373f8-6fdb-4d88-9e53-568dc93cb138.jpg)
+![splashScreen](https://user-images.githubusercontent.com/102368077/201526011-1a933231-e1ae-42ec-81fc-1f084705366d.png)
+![homePage](https://user-images.githubusercontent.com/102368077/201526131-ffb5eb04-92ed-4df7-8df2-5b711bd4bf1b.png)
+![settingsPage](https://user-images.githubusercontent.com/102368077/201526015-ef250e4a-574d-4ee5-999f-1bf614fc32db.png)
+![playPage](https://user-images.githubusercontent.com/102368077/201526153-fbf0b6ab-a9e2-47f2-9b4c-622ef1719cab.png)
+![road](https://user-images.githubusercontent.com/102368077/201526232-3dcc614d-c0cc-47bd-9f1f-bc44f091e049.jpg)
+![garageAndCars](https://user-images.githubusercontent.com/102368077/201526324-1e3bfdbc-d62d-48e5-843d-7bd5609b668e.gif)
 
 ## Notes
