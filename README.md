@@ -4,7 +4,7 @@
 
 > **Car Game with Pygame**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+ ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
 
