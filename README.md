@@ -17,7 +17,7 @@
 ## Table of Contents
 
 - [Introduction](#Introduction)
-- [Installation & Usage](#Installation-&-Usage)
+- [Installation and Usage](#Installation-and-Usage)
 - [Gameplay](#Gameplay)
 - [Features](#Features)
 - [Sources](#Sources)
@@ -33,7 +33,7 @@ With its stylish and simple interface design and user-friendly interface, a very
 **LETS GO!***
 
 
-## Installation & Usage
+## Installation and Usage
 
 ***Requirements***
 > - *Python*
