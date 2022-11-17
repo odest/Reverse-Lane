@@ -17,7 +17,7 @@
 ## Table of Contents
 
 - [Introduction](#Introduction)
-- [Installation & Usage](#Installation-&-Usage)
+- [Installation & Usage](https://github.com/destrochloridium/Reverse-Lane/blob/main/README.md#installation--usage)
 - [Gameplay](#Gameplay)
 - [Features](#Features)
 - [Sources](#Sources)
