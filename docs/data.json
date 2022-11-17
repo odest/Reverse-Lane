@@ -1,0 +1,832 @@
+{
+"onOffDict":
+	{
+	"on":
+		{
+		"onImage":1,
+		"onColor":"cyan",
+		"offImage":0,
+		"offColor":[0,138,138]
+		},
+	"off":
+		{
+		"onImage":0,
+		"onColor":[0,138,138],
+		"offImage":1,
+		"offColor":"cyan"
+		}
+	},
+
+"difficultyDict":
+	{
+	"easy":
+		{
+		"fontOne":1,
+		"colorOne":"cyan",
+		"widthOne":{
+					"tr":24.5,
+					"en":24.5,
+					"ge":17
+					},
+		"heightOne":40,
+		"fontTwo":0,
+		"colorTwo":[0,138,138],
+		"widthTwo":{
+					"tr":46,
+					"en":43,
+					"ge":44
+					},
+		"heightTwo":40.5,
+		"fontThree":0,
+		"colorThree":[0,138,138],
+		"widthThree":{
+					"tr":62,
+					"en":65,
+					"ge":65
+					},
+		"heightThree":40.5
+		},
+	"medium":
+		{
+		"fontOne":0,
+		"colorOne":[0,138,138],
+		"widthOne":{
+					"tr":27,
+					"en":27,
+					"ge":21
+					},
+		"heightOne":40.5,
+		"fontTwo":1,
+		"colorTwo":"cyan",
+		"widthTwo":{
+					"tr":43,
+					"en":39.5,
+					"ge":40
+					},
+		"heightTwo":40,
+		"fontThree":0,
+		"colorThree":[0,138,138],
+		"widthThree":{
+					"tr":62,
+					"en":65,
+					"ge":65
+					},
+		"heightThree":40.5
+		},
+	"hard":
+		{
+		"fontOne":0,
+		"colorOne":[0,138,138],
+		"widthOne":{
+					"tr":27,
+					"en":27,
+					"ge":21
+					},
+		"heightOne":40.5,
+		"fontTwo":0,
+		"colorTwo":[0,138,138],
+		"widthTwo":{
+					"tr":46,
+					"en":43,
+					"ge":44
+					},
+		"heightTwo":40.5,
+		"fontThree":1,
+		"colorThree":"cyan",
+		"widthThree":{
+					"tr":62,
+					"en":62,
+					"ge":62
+					},
+		"heightThree":40
+		}
+	},
+	
+"languageDict":
+	{
+	"tr":
+		{
+		"fontOne":1,
+		"colorOne":"cyan",
+		"widthOne":{
+					"tr":17,
+					"en":17,
+					"ge":12
+					},
+		"heightOne":58,
+		
+		"fontTwo":0,
+		"colorTwo":[0,138,138],
+		"widthTwo":{
+					"tr":43,
+					"en":44,
+					"ge":42.5
+					},
+		"heightTwo":58.5,
+		
+		"fontThree":0,
+		"colorThree":[0,138,138],
+		"widthThree":{
+					"tr":67,
+					"en":65,
+					"ge":67
+					},
+		"heightThree":58.5
+		},
+	"en":
+		{
+		"fontOne":0,
+		"colorOne":[0,138,138],
+		"widthOne":{
+					"tr":22,
+					"en":22,
+					"ge":18
+					},
+		"heightOne":58.5,
+		
+		"fontTwo":1,
+		"colorTwo":"cyan",
+		"widthTwo":{
+					"tr":38.5,
+					"en":39.5,
+					"ge":38
+					},
+		"heightTwo":58,
+		
+		"fontThree":0,
+		"colorThree":[0,138,138],
+		"widthThree":{
+					"tr":67,
+					"en":65,
+					"ge":67
+					},
+		"heightThree":58.5
+		},
+	"ge":
+		{
+		"fontOne":0,
+		"colorOne":[0,138,138],
+		"widthOne":{
+					"tr":22,
+					"en":22,
+					"ge":18
+					},
+		"heightOne":58.5,
+		
+		"fontTwo":0,
+		"colorTwo":[0,138,138],
+		"widthTwo":{
+					"tr":43,
+					"en":44,
+					"ge":42.5
+					},
+		"heightTwo":58.5,
+		
+		"fontThree":1,
+		"colorThree":"cyan",
+		"widthThree":{
+					"tr":63,
+					"en":62,
+					"ge":62
+					},
+		"heightThree":58
+		}
+	},
+	
+"screenSizeDict":
+	{
+	"144":
+		{
+		"fontOne":1,
+		"colorOne":"cyan",
+		"widthOne":20,
+		"heightOne":76,
+		
+		"fontTwo":0,
+		"colorTwo":[0,138,138],
+		"widthTwo":32,
+		"heightTwo":76.5,
+		
+		"fontThree":0,
+		"colorThree":[0,138,138],
+		"widthThree":42,
+		"heightThree":76.5,
+		
+		"fontFour":0,
+		"colorFour":[0,138,138],
+		"widthFour":52,
+		"heightFour":76.5,
+		
+		"fontFive":0,
+		"colorFive":[0,138,138],
+		"widthFive":62,
+		"heightFive":76.5,
+		
+		"fontSix":0,
+		"colorSix":[0,138,138],
+		"widthSix":72,
+		"heightSix":76.5
+		},
+	"225":
+		{
+		"fontOne":0,
+		"colorOne":[0,138,138],
+		"widthOne":22,
+		"heightOne":76.5,
+		
+		"fontTwo":1,
+		"colorTwo":"cyan",
+		"widthTwo":30,
+		"heightTwo":76,
+		
+		"fontThree":0,
+		"colorThree":[0,138,138],
+		"widthThree":42,
+		"heightThree":76.5,
+		
+		"fontFour":0,
+		"colorFour":[0,138,138],
+		"widthFour":52,
+		"heightFour":76.5,
+		
+		"fontFive":0,
+		"colorFive":[0,138,138],
+		"widthFive":62,
+		"heightFive":76.5,
+		
+		"fontSix":0,
+		"colorSix":[0,138,138],
+		"widthSix":72,
+		"heightSix":76.5
+		},
+	"288":
+		{
+		"fontOne":0,
+		"colorOne":[0,138,138],
+		"widthOne":22,
+		"heightOne":76.5,
+		
+		"fontTwo":0,
+		"colorTwo":[0,138,138],
+		"widthTwo":32,
+		"heightTwo":76.5,
+		
+		"fontThree":1,
+		"colorThree":"cyan",
+		"widthThree":40,
+		"heightThree":76,
+		
+		"fontFour":0,
+		"colorFour":[0,138,138],
+		"widthFour":52,
+		"heightFour":76.5,
+		
+		"fontFive":0,
+		"colorFive":[0,138,138],
+		"widthFive":62,
+		"heightFive":76.5,
+		
+		"fontSix":0,
+		"colorSix":[0,138,138],
+		"widthSix":72,
+		"heightSix":76.5
+		},
+	"360":
+		{
+		"fontOne":0,
+		"colorOne":[0,138,138],
+		"widthOne":22,
+		"heightOne":76.5,
+		
+		"fontTwo":0,
+		"colorTwo":[0,138,138],
+		"widthTwo":32,
+		"heightTwo":76.5,
+		
+		"fontThree":0,
+		"colorThree":[0,138,138],
+		"widthThree":42,
+		"heightThree":76.5,
+		
+		"fontFour":1,
+		"colorFour":"cyan",
+		"widthFour":50,
+		"heightFour":76,
+		
+		"fontFive":0,
+		"colorFive":[0,138,138],
+		"widthFive":62,
+		"heightFive":76.5,
+		
+		"fontSix":0,
+		"colorSix":[0,138,138],
+		"widthSix":72,
+		"heightSix":76.5
+		},
+	"480":
+		{
+		"fontOne":0,
+		"colorOne":[0,138,138],
+		"widthOne":22,
+		"heightOne":76.5,
+		
+		"fontTwo":0,
+		"colorTwo":[0,138,138],
+		"widthTwo":32,
+		"heightTwo":76.5,
+		
+		"fontThree":0,
+		"colorThree":[0,138,138],
+		"widthThree":42,
+		"heightThree":76.5,
+		
+		"fontFour":0,
+		"colorFour":[0,138,138],
+		"widthFour":52,
+		"heightFour":76.5,
+		
+		"fontFive":1,
+		"colorFive":"cyan",
+		"widthFive":60,
+		"heightFive":76,
+		
+		"fontSix":0,
+		"colorSix":[0,138,138],
+		"widthSix":72,
+		"heightSix":76.5
+		},
+	"720":
+		{
+		"fontOne":0,
+		"colorOne":[0,138,138],
+		"widthOne":22,
+		"heightOne":76.5,
+		
+		"fontTwo":0,
+		"colorTwo":[0,138,138],
+		"widthTwo":32,
+		"heightTwo":76.5,
+		
+		"fontThree":0,
+		"colorThree":[0,138,138],
+		"widthThree":42,
+		"heightThree":76.5,
+		
+		"fontFour":0,
+		"colorFour":[0,138,138],
+		"widthFour":52,
+		"heightFour":76.5,
+		
+		"fontFive":0,
+		"colorFive":[0,138,138],
+		"widthFive":62,
+		"heightFive":76.5,
+		
+		"fontSix":1,
+		"colorSix":"cyan",
+		"widthSix":70,
+		"heightSix":76
+		}
+	},
+	
+"language":
+	{
+	"songAndSfx":
+		{
+		"tr":"M U Z I K   &   S F X",
+		"en":"S O N G   &   S F X",
+		"ge":"L I E D   &   S F X"
+		},
+		
+	"on":
+		{
+		"tr":"A C I K",
+		"en":"O N",
+		"ge":"A N"
+		},
+		
+	"off":
+		{
+		"tr":"K A P A L I",
+		"en":"O F F",
+		"ge":"A U S"
+		},
+		
+	"difficulty":
+		{
+		"tr":"Z O R L U K",
+		"en":"D I F F I C U L T Y",
+		"ge":"S C H W I E R I G K E I T"
+		},
+		
+	"easy":
+		{
+		"tr":"K O L A Y",
+		"en":" E A S Y",
+		"ge":"E I N F A C H"
+		},
+		
+	"medium":
+		{
+		"tr":"O R T A",
+		"en":"M E D I U M",
+		"ge":"M I T T E L"
+		},
+		
+	"hard":
+		{
+		"tr":"Z O R",
+		"en":"H A R D",
+		"ge":"S C H W E R"
+		},
+		
+	"language":
+		{
+		"tr":"D I L",
+		"en":"L A N G U A G E",
+		"ge":"S P R A C H E"
+		},
+		
+	"english":
+		{
+		"tr":"I N G I L I Z C E",
+		"en":"E N G L I S H",
+		"ge":"E N G L I S C H"
+		},
+		
+	"turkish":
+		{
+		"tr":"T U R K C E",
+		"en":"T U R K I S H",
+		"ge":"T U R K I S C H"
+		},
+	
+	"german":
+		{
+		"tr":"A L M A N C A",
+		"en":"G E R M A N",
+		"ge":"D E U T S C H"
+		},
+		
+	"screenSize":
+		{
+		"tr":"E K R A N   B O Y U T U",
+		"en":"S C R E E N   S I Z E",
+		"ge":"B I L D S C H I R M G R O B E"
+		},
+		
+	"save":
+		{
+		"tr":"K A Y D E T",
+		"en":"S A V E",
+		"ge":"S P A L E N"
+		},
+		
+	"notes":
+		{
+		"tr":"N O T L A R",
+		"en":"N O T E S",
+		"ge":"A N M E R K U N G E N"
+		},
+		
+	"upDownText":
+		{
+		"tr":"AYARLAR ARASINDA GECIS YAPABILIRSINIZ.",
+		"en":"YOU CAN SWITCH BETWEEN SETTINGS.",
+		"ge":"SIE KONNEN ZWISCHEN EINSTELLUNGEN WECHSELN."
+		},
+		
+	"leftRightText":
+		{
+		"tr":"SECENEKLER ARASINDA GECIS YAPABILIRSINIZ.",
+		"en":"YOU CAN SWITCH BETWEEN OPTIONS.",
+		"ge":"SIE KONNEN ZWISCHEN DEN OPTIONEN WECHSELN UND."
+		},
+	
+	"enterText":
+		{
+		"tr":"AYARLARI KAYDEDEBILIRSINIZ.",
+		"en":"YOU CAN SAVE SETTINGS.",
+		"ge":"SIE KONNEN EINSTELLUNGEN SPEICHERN"
+		},
+		
+	"garagePageUpDownText":
+		{
+		"tr":"ARABALAR ARASINDA GECIS YAPABILIRSINIZ.",
+		"en":"YOU CAN SWITCH BETWEEN CARS.",
+		"ge":"SIE KONNEN ZWISCHEN DEN AUTOS WECHSELN."
+		},
+		
+	"garagePageLeftRightText":
+		{
+		"tr":"RENKLER ARASINDA GECIS YAPABILIRSINIZ.",
+		"en":"YOU CAN SWITCH BETWEEN COLORS.",
+		"ge":"SIE KONNEN ZWISCHEN FARBEN WECHSELN."
+		},
+		
+	"garagePageKeyText":
+		{
+		"tr":{
+			 "h":"H: ANA SAYFAYA DONEBILIRSINIZ.",
+			 "i":"I: NOTLARI ACABILIRSINIZ.",
+			 "x":"X: NOTLARI KAPATABILIRSINIZ."
+			 },
+		"en":{
+			 "h":"H: YOU CAN BACK TO HOME.",
+			 "i":"I: YOU CAN OPEN THE NOTES.",
+			 "x":"X: YOU CAN CLOSE NOTES."
+			 },
+		"ge":{
+			 "h":"H: SIE KONNEN NACH HAUSE ZURUCKKEHREN.",
+			 "i":"I: SIE KONNEN DIE NOTIZEN OFFNEN.", 
+			 "x":"X: SIE KONNEN NOTIZEN SCHLIESSEN."
+			 }
+		},
+	
+	"garagePageEnterText":
+		{
+		"tr":"SENECEKLERINIZI KAYDEDEBILIRSINIZ.",
+		"en":"YOU CAN SAVE YOUR OPTIONS.",
+		"ge":"SIE KONNEN IHRE OPTIONEN SPEICHERN"
+		},
+		
+	"playPageLeftAndAText":
+		{
+		"tr":"S O L A   G I T",
+		"en":"G O   L E F T",
+		"ge":"G E H E   N A C H   L I N K S"
+		},
+		
+	"playPageRightAndDText":
+		{
+		"tr":"S A G A   G I T",
+		"en":"G O   R I G H T",
+		"ge":"G E H   R E C H T S"
+		},
+		
+	"playPageUpAndWText":
+		{
+		"tr":"H I Z L A N",
+		"en":"S P E E D   U P",
+		"ge":"B E S C H L E U N I G E N"
+		},
+		
+	"playPageDownAndSText":
+		{
+		"tr":"Y A V A S L A",
+		"en":"S L O W   D O W N",
+		"ge":"L A N G S A M E R"
+		},
+		
+	"playPageSpaceText":
+		{
+		"tr":"DURAKLAT, DEVAM ET, YENIDEN BASLA",
+		"en":"PAUSE, RESUME, RESTART",
+		"ge":"ANHALTEN, FORTSETZEN, NEU STARTEN"
+		},
+		
+	"howToPlay":
+		{
+		"tr":"N A S I L   O Y N A N I R  ?",
+		"en":"H O W   T O   P L A Y  ?",
+		"ge":"S P I E L A N L E I T U N G"
+		},
+		
+	"back":
+		{
+		"tr":"G E R I",
+		"en":"B A C K",
+		"ge":"RUCKEN"
+		},
+		
+	"info":
+		{
+		"tr":"B I L G I",
+		"en":"I N F O",
+		"ge":"I N F O"
+		},
+		
+	"noteText":
+		{
+		"tr":"SECILEN AYARLAR TAVSIYE EDILEN AYARLARDIR. FARE TIKLAMALARIYLA VEYA YON TUSLARIYLA SECIM YAPABILIR VE  AYARLARI DEGISTIREBILIRSINIZ. KAYDET BUTONUNA BASILMADAN AYARLAR KAYDEDILMEZ. AYARLAR DEGISTIRILIP KAYDEDILDIKTEN HEMEN SONRA KULLANILMAYA BASLANABILIR ANCAK EKRAN BOYUTUNUN DEGISMESI ICIN OYUNU KAPATIP ACMALISINIZ.",
+		"en":"SELECTED SETTINGS ARE RECOMMENDED SETTINGS. YOU CAN MAKE SELECTIONS AND CHANGE SETTINGS WITH THE MOUSE CLICK OR THE ARROW KEYS. SETTINGS ARE NOT SAVED UNTIL THE SAVE BUTTON IS PRESSED. IT CAN BE USED IMMEDIATELY AFTER THE SETTINGS HAVE BEEN CHANGE AND SAVED, BUT YOU MUST CLOSE AND OPEN THE GAME TO CHANGE THE SCREEN SIZE.",
+		"ge":"AUSGEWAHLTE EINSTELLUNGEN SIND EMPFOHLENE EINSTELLUNGEN. MIT MAUSKLICK ODER DEN PFEILTASTEN KONNEN SIE AUSWAHLEN UND EINSTELLUNGEN ANDERN. EINSTELLUNGEN WERDEN NICHT GESPEICHERT, BIS DIE TASTE SPEICHERN GEDRUCKT WIRD. ES KANN SOFORT VERWENDET WERDEN, NACHDEM DIE EINSTELLUNGEN GEANDERT UND GESPEICHERT WURDEN, ABER SIE MUSSEN DAS SPIEL SCHLIESSEN UND OFFNEN, UM DIE BILDSCHIRMGROSSE ZU ANDERN."
+		},
+		
+	"splashScreenInfoText":
+		{
+		"tr":"BASLAMAK ICIN HERHANGI BIR TUSA BASIN",
+		"en":"PRESS ANY KEY TO START",
+		"ge":"DRUCKEN SIE EINE BELIEBIGE TASTE, UM ZU STARTEN"
+		},
+		
+	"play":
+		{
+		"tr":"O Y N A",
+		"en":"P L A Y",
+		"ge":"A B S P I E L E N"
+		},
+	
+	"garage":
+		{
+		"tr":"G A R A J",
+		"en":"G A R A G E",
+		"ge":"G A R A G E"
+		},
+		
+	"settings":
+		{
+		"tr":"A Y A R L A R",
+		"en":"S E T T I N G S",
+		"ge":"E I N S T E L L U N G E N"
+		},
+		
+	"paused":
+		{
+		"tr":"D U R A K L A T I L D I",
+		"en":"P A U S E D",
+		"ge":"A N G E H A L T E N"
+		},
+		
+	"resume":
+		{
+		"tr":"D E V A M   E T",
+		"en":"R E S U M E",
+		"ge":"F O R T S E T Z E N"
+		},
+		
+	"space":
+		{
+		"tr":"DEVAM ETMEK ICIN `SPACE`E BASIN",
+		"en":"PRESS `SPACE` TO CONTINUE",
+		"ge":"DRUCKEN SIE `SPACE`, UM FORTZUFAHREN"
+		},
+		
+	"pressP":
+		{
+		"tr":"OYNAMAK ICIN `P`YE BASIN",
+		"en":"PRESS `P` TO PLAY",
+		"ge":"DRUCKE `P` ZU SPIELEN"
+		},
+	
+	"pressG":
+		{
+		"tr":"GARAJ ICIN `G`YE BASIN",
+		"en":"PRESS `G` TO GARAGE",
+		"ge":"DRUCKE `G` ZU GARAGE"
+		},
+		
+	"pressS":
+		{
+		"tr":"AYARLAR ICIN `S`YE BASIN",
+		"en":"PRESS `S` TO SETTINGS",
+		"ge":"DRUCKE `S` ZU EINSTELLUNGEN"
+		},
+		
+	"pressQ":
+		{
+		"tr":"CIKMAK ICIN `Q`YA BASIN",
+		"en":"PRESS `Q` TO EXIT",
+		"ge":"DRUCKE `Q` ZU BEENDEN"
+		},
+		
+	"pressR":
+		{
+		"tr":"YENIDEN BASLAMAK ICIN `R`YE YA DA `SPACE`YE BASIN",
+		"en":"PRESS `R` OR `SPACE` TO RESTART",
+		"ge":"DRUCKEN SIE `R` ODER `SPACE` UM NEU ZU STARTEN"
+		},
+		
+	"pressH":
+		{
+		"tr":"ANA SAYFA ICIN `H`YE BASIN",
+		"en":"PRESS `H` TO HOME PAGE",
+		"ge":"DRUCKE `H` ZUR STARTSEITE"
+		},
+	
+	"select":
+		{
+		"tr":"S E C",
+		"en":"S E L E C T",
+		"ge":"W A H L E N"
+		},
+		
+	"speed":
+		{
+		"tr":"H I Z",
+		"en":"S P E E D",
+		"ge":"GESCHWINDIGKEIT"
+		},
+		
+	"handling":
+		{
+		"tr":"M A N E V R A",
+		"en":"H A N D L I N G",
+		"ge":"H A N D L I N G"
+		},
+		
+	"braking":
+		{
+		"tr":"F R E N L E M E",
+		"en":"B R A K I N G",
+		"ge":"B R E M S E N"
+		},
+		
+	"crashed":
+		{
+		"tr":"C A R P I S M A",
+		"en":"C R A S H E D",
+		"ge":"ZUSAMMENSTOB"
+		},
+		
+	"restart":
+		{
+		"tr":"T E K R A R",
+		"en":"R E S T A R T",
+		"ge":"W I E D E R"
+		},
+		
+	"exit":
+		{
+		"tr":"C I K I S",
+		"en":"E X I T",
+		"ge":"A U S F A H R T"
+		},
+		
+	"home":
+		{
+		"tr":"A N A  S A Y F A",
+		"en":"H O M E  P A G E",
+		"ge":"S T A R T S E I T E"
+		},
+		
+	"yourScore":
+		{
+		"tr":"S K O R U N",
+		"en":"Y O U R  S C O R E",
+		"ge":"I H R  E R G E B N I S"
+		},
+		
+	"highScore":
+		{
+		"tr":"Y U K S E K  S K O R",
+		"en":"H I G H S C O R E",
+		"ge":"H I G H S C O R E"
+		}
+		
+	},
+	
+"playerDict":
+	{
+	
+	"names":
+		[
+		"porsche",
+		"maserati",
+		"pagani",
+		"ferrari",
+		"lamborghini",
+		"bugatti"
+		],
+		
+	"texts":
+		[
+		"P O R S C H E",
+		"M A S E R A T I",
+		"P A G A N I",
+		"F E R R A R I",
+		"L A M B O R G H I N I",
+		"B U G A T T I"
+		],
+		
+	"colors":
+		[
+			["green","orange","black"],
+			["blue","green","white"],
+			["white","black","yellow"],
+			["yellow","white","green"],
+			["orange","black","white"],
+			["black","green","yellow"]
+		],
+		
+	"prices":
+		[
+		"$  5 0 0 , 0 0 0",
+		"$  7 5 0 , 0 0 0",
+		"$  1 , 0 0 0 , 0 0 0",
+		"$  1 , 5 0 0 , 0 0 0",
+		"$  2 , 0 0 0 , 0 0 0",
+		"$  3 , 1 0 0 , 0 0 0"
+		],
+		
+	"features":
+		[
+			[225,5.6,45],
+			[270,6.7,61],
+			[315,7.5,73],
+			[360,8.2,86],
+			[405,9,90],
+			[450,9.9,98]
+		]
+	}
+}
